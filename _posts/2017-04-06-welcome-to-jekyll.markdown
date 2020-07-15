@@ -24,3 +24,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hello World</p>&mdash; Lazy and Smart Machine Learning (@LazyAndSmartML) <a href="https://twitter.com/LazyAndSmartML/status/1283484214101446662?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
